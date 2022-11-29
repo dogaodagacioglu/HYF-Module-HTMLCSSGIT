@@ -1,6 +1,0 @@
-Answer one:	Files starting with a dot(.) are by default hidden. Anyone will still be able to see it using (ls -a)
-Answer two: “mkdir”  command creates a folder. But The -p switch create parents directories.
-Answer three: 
-code 1 :touch answer 
-code 2 :echo "first massage" > answer
-code 3 :echo "second massage" >> answer
